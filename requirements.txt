@@ -1,1 +1,21 @@
+streamlit 
+os
+langchain_google_genai 
+langchain.agents 
+langchain.memory 
+langchain.schema 
+langchain.utilities 
+langchain.tools 
+langchain.callbacks.streamlit 
+langchain.chains
+langchain.prompts 
+datetime
+json
+pandas 
+plotly.express 
+plotly.graph_objects 
+typing 
+requests
+BeautifulSoup
+re
 
