@@ -1,8 +1,9 @@
-streamlit
 langchain
 langchain-google-genai
+langchain-community
 duckduckgo-search
 wikipedia
+streamlit
 plotly
 pandas
 requests
